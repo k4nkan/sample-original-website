@@ -14,8 +14,8 @@ body {
   color: var(--text);
   background: var(--bg);
   font-family:
-    "SFMono-Regular", "Roboto Mono", "IBM Plex Mono", Consolas, "Liberation Mono",
-    monospace;
+    "SFMono-Regular", "Roboto Mono", "IBM Plex Mono", Consolas,
+    "Liberation Mono", monospace;
 }
 
 .stage {
